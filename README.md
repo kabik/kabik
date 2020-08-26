@@ -1,6 +1,12 @@
-### Hi there 👋
+# My Qiita works
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/kabik/posts.svg)](http://qiita.com/kabik)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kabik/contributions.svg)](http://qiita.com/kabik)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/kabik/followers.svg)](http://qiita.com/kabik)
+
 
 <!--
+### Hi there 👋
+
 **kabik/kabik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
