@@ -1,3 +1,5 @@
+![kabik's github stats](https://github-readme-stats.vercel.app/api?username=kabik&show_icons=true&theme=tokyonight)
+
 # My Qiita works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kabik/posts.svg)](http://qiita.com/kabik)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kabik/contributions.svg)](http://qiita.com/kabik)
