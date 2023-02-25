@@ -1,4 +1,5 @@
 ![kabik's github stats](https://github-readme-stats.vercel.app/api?username=kabik&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabik&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kabik/github-readme-stats)
 
 # My Qiita works
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kabik/posts.svg)](http://qiita.com/kabik)
